@@ -26,7 +26,7 @@ pipeline {
         }
         stage('Finalize'){
             steps {
-               echo 'Finished Jenkins Pipeline' 
+               echo 'Finished Jenkins Pipelines' 
             }
         }
     }
